@@ -1,0 +1,14 @@
+baseURL = "http://www.jeffbenson.io/"
+languageCode = "en-us"
+title = "Jeff Benson's Blog"
+theme = "noteworthy"
+
+# Main
+email = "me@jeffbenson.io"
+twitter = "https://twitter.com/jeffersonbenson"
+reddit = "https://www.reddit.com/user/Jeffersonbenson"
+pinterest = "https://www.pinterest.com/wolfman18336/"
+github = "https://github.com/jeffersonbenson"
+
+#TODO: Google Analytics
+googleAnalytics = ""
