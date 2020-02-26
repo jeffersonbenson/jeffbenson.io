@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.jeffbenson.io/posts/how-to-start-a-blog/</loc>
+    <lastmod>2020-02-25T20:47:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jeffbenson.io/</loc>
+    <lastmod>2020-02-25T20:47:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jeffbenson.io/posts/</loc>
+    <lastmod>2020-02-25T20:47:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jeffbenson.io/tags/</loc>
+  </url>
+  
+</urlset>

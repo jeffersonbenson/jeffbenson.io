@@ -1,9 +1,21 @@
-baseURL = "http://www.jeffbenson.io/"
+baseURL = "https://www.jeffbenson.io"
 languageCode = "en-us"
 title = "Jeff Benson's Blog"
 theme = "noteworthy"
 
+paginate = 4
+summaryLength = 10
+
+[taxonomies]
+tag = "tags"
+
+[author]
+name = "Jeff"
+
 # Main
+[params]
+favicon = "favicon.ico"
+math = true
 email = "me@jeffbenson.io"
 twitter = "https://twitter.com/jeffersonbenson"
 reddit = "https://www.reddit.com/user/Jeffersonbenson"
@@ -12,3 +24,48 @@ github = "https://github.com/jeffersonbenson"
 
 #TODO: Google Analytics
 googleAnalytics = ""
+
+[[menu.main]]
+	identifier = "about"
+	name = "About"
+	url = "/about/"
+	weight= 1
+[[menu.main]]
+	identifier = "tags"
+	name = "Tags"
+	url = "/tags/"
+	weight = 2
+[[menu.main]]
+	name = "Archives"
+	identifier = "archives"
+	url = "/archives/"
+	weight = 3
+
+# Privacy configurations: https://gohugo.io/about/hugo-and-gdpr/
+[privacy]
+  [privacy.disqus]
+   disable = false
+  [privacy.googleAnalytics]
+   anonymizeIP = true
+   disable = false
+   respectDoNotTrack = false
+   useSessionStorage = false
+  [privacy.instagram]
+   disable = false
+   simple = false
+  [privacy.twitter]
+   disable = false
+   enableDNT = false
+   simple = false
+  [privacy.vimeo]
+   disable = false
+   simple = false
+  [privacy.youtube]
+   disable = false
+   privacyEnhanced = true
+
+[deployment]
+
+[[deployment.targets]]
+name = "S3"
+URL = "s3://www.jeffbenson.io?region=us-east-1"
