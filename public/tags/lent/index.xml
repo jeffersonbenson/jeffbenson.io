@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jeff Benson&#39;s Blog</title>
-    <link>https://www.jeffbenson.io/posts/</link>
-    <description>Recent content in Posts on Jeff Benson&#39;s Blog</description>
+    <title>Lent on Jeff Benson&#39;s Blog</title>
+    <link>https://www.jeffbenson.io/tags/lent/</link>
+    <description>Recent content in Lent on Jeff Benson&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Feb 2020 23:07:46 -0500</lastBuildDate>
     
-	<atom:link href="https://www.jeffbenson.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.jeffbenson.io/tags/lent/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -36,15 +36,6 @@
       
       <guid>https://www.jeffbenson.io/posts/slamming-into-lent/</guid>
       <description>So today marks the opening day of a series I want to write about for Lent.</description>
-    </item>
-    
-    <item>
-      <title>How to Start a Blog, For Under 2$ A Month</title>
-      <link>https://www.jeffbenson.io/posts/how-to-start-a-blog/</link>
-      <pubDate>Tue, 25 Feb 2020 20:47:53 -0500</pubDate>
-      
-      <guid>https://www.jeffbenson.io/posts/how-to-start-a-blog/</guid>
-      <description>So this is my blog. I wanted to create one, but I&amp;rsquo;m also a bit of a nerd, so I decided to do this in the most effecient way I could, which as is often the case, involves messing around with technologies that I&amp;rsquo;m familiar enough with, but need some serious hands-on time.</description>
     </item>
     
   </channel>

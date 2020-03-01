@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brokenness on Jeff Benson&#39;s Blog</title>
+    <link>https://www.jeffbenson.io/tags/brokenness/</link>
+    <description>Recent content in Brokenness on Jeff Benson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Feb 2020 23:57:43 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.jeffbenson.io/tags/brokenness/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 2: On Brokenness</title>
+      <link>https://www.jeffbenson.io/posts/on-brokenness/</link>
+      <pubDate>Thu, 27 Feb 2020 23:57:43 -0500</pubDate>
+      
+      <guid>https://www.jeffbenson.io/posts/on-brokenness/</guid>
+      <description>Maybe you and I were never meant to be complete</description>
+    </item>
+    
+  </channel>
+</rss>

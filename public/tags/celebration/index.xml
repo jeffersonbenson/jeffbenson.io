@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Celebration on Jeff Benson&#39;s Blog</title>
+    <link>https://www.jeffbenson.io/tags/celebration/</link>
+    <description>Recent content in Celebration on Jeff Benson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Feb 2020 23:07:46 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.jeffbenson.io/tags/celebration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 4: Celebration</title>
+      <link>https://www.jeffbenson.io/posts/celebration/</link>
+      <pubDate>Sat, 29 Feb 2020 23:07:46 -0500</pubDate>
+      
+      <guid>https://www.jeffbenson.io/posts/celebration/</guid>
+      <description>So yes I didn&amp;rsquo;t post yesterday, which though normally my reaction would be like:</description>
+    </item>
+    
+  </channel>
+</rss>

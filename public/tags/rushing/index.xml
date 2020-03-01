@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rushing on Jeff Benson&#39;s Blog</title>
+    <link>https://www.jeffbenson.io/tags/rushing/</link>
+    <description>Recent content in rushing on Jeff Benson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Feb 2020 22:45:52 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.jeffbenson.io/tags/rushing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 1: Slamming Into Lent</title>
+      <link>https://www.jeffbenson.io/posts/slamming-into-lent/</link>
+      <pubDate>Wed, 26 Feb 2020 22:45:52 -0500</pubDate>
+      
+      <guid>https://www.jeffbenson.io/posts/slamming-into-lent/</guid>
+      <description>So today marks the opening day of a series I want to write about for Lent.</description>
+    </item>
+    
+  </channel>
+</rss>

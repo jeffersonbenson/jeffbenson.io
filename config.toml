@@ -16,7 +16,7 @@ name = "Jeff"
 [params]
 favicon = "favicon.ico"
 math = true
-email = "me@jeffbenson.io"
+email = "mailto:me@jeffbenson.io"
 twitter = "https://twitter.com/jeffersonbenson"
 reddit = "https://www.reddit.com/user/Jeffersonbenson"
 pinterest = "https://www.pinterest.com/wolfman18336/"
