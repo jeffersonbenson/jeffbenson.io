@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emotions on Jeff Benson&#39;s Blog</title>
+    <link>https://www.jeffbenson.io/tags/emotions/</link>
+    <description>Recent content in emotions on Jeff Benson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Mar 2020 23:30:50 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.jeffbenson.io/tags/emotions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 13: Emotional Intelligence</title>
+      <link>https://www.jeffbenson.io/posts/emotional-intelligence/</link>
+      <pubDate>Mon, 09 Mar 2020 23:30:50 -0400</pubDate>
+      
+      <guid>https://www.jeffbenson.io/posts/emotional-intelligence/</guid>
+      <description>I think for me some of the hardest topics to discuss involve emotions.</description>
+    </item>
+    
+  </channel>
+</rss>

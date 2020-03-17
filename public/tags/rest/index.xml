@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rest on Jeff Benson&#39;s Blog</title>
+    <link>https://www.jeffbenson.io/tags/rest/</link>
+    <description>Recent content in rest on Jeff Benson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Mar 2020 23:13:08 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.jeffbenson.io/tags/rest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 8: Seeking Rest</title>
+      <link>https://www.jeffbenson.io/posts/seeking-rest/</link>
+      <pubDate>Wed, 04 Mar 2020 23:13:08 -0500</pubDate>
+      
+      <guid>https://www.jeffbenson.io/posts/seeking-rest/</guid>
+      <description>So I&amp;rsquo;m still sick today, which means as I&amp;rsquo;m writing this at the close of my day I am seriously looking forward to my bed.</description>
+    </item>
+    
+  </channel>
+</rss>

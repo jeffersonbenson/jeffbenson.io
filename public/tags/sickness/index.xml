@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sickness on Jeff Benson&#39;s Blog</title>
+    <link>https://www.jeffbenson.io/tags/sickness/</link>
+    <description>Recent content in Sickness on Jeff Benson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Mar 2020 22:19:57 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.jeffbenson.io/tags/sickness/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 7: Being Sick</title>
+      <link>https://www.jeffbenson.io/posts/being-sick/</link>
+      <pubDate>Tue, 03 Mar 2020 22:19:57 -0500</pubDate>
+      
+      <guid>https://www.jeffbenson.io/posts/being-sick/</guid>
+      <description>So if the title wasn&amp;rsquo;t obvious, I fear that I may be coming down with some sort of illness impacting my head, throat, and sinuses.</description>
+    </item>
+    
+  </channel>
+</rss>

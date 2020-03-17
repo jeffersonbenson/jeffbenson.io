@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Whiskey on Jeff Benson&#39;s Blog</title>
+    <link>https://www.jeffbenson.io/tags/whiskey/</link>
+    <description>Recent content in Whiskey on Jeff Benson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Mar 2020 23:10:03 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.jeffbenson.io/tags/whiskey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 16: Blended Malt Whiskey</title>
+      <link>https://www.jeffbenson.io/posts/blended-malt-whiskey/</link>
+      <pubDate>Sat, 14 Mar 2020 23:10:03 -0400</pubDate>
+      
+      <guid>https://www.jeffbenson.io/posts/blended-malt-whiskey/</guid>
+      <description>Today was a good day to be partially Irish as well as Scottish.</description>
+    </item>
+    
+  </channel>
+</rss>

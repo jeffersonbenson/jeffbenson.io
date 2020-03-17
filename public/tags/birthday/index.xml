@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>birthday on Jeff Benson&#39;s Blog</title>
+    <link>https://www.jeffbenson.io/tags/birthday/</link>
+    <description>Recent content in birthday on Jeff Benson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2020 22:51:11 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.jeffbenson.io/tags/birthday/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 15: Birthday</title>
+      <link>https://www.jeffbenson.io/posts/birthday/</link>
+      <pubDate>Wed, 11 Mar 2020 22:51:11 -0400</pubDate>
+      
+      <guid>https://www.jeffbenson.io/posts/birthday/</guid>
+      <description>If the title wasn&amp;rsquo;t obvious enough, today is my birthday, and I am officially the ripe old age of 27 years.</description>
+    </item>
+    
+  </channel>
+</rss>

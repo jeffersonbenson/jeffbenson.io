@@ -69,3 +69,4 @@ googleAnalytics = ""
 [[deployment.targets]]
 name = "S3"
 URL = "s3://www.jeffbenson.io?region=us-east-1"
+cloudFrontDistributionID = "EWFZQ9QLNYQL9"

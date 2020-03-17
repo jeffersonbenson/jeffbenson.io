@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isolation on Jeff Benson&#39;s Blog</title>
+    <link>https://www.jeffbenson.io/tags/isolation/</link>
+    <description>Recent content in Isolation on Jeff Benson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Mar 2020 23:13:36 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.jeffbenson.io/tags/isolation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 17: Isolation</title>
+      <link>https://www.jeffbenson.io/posts/isolation/</link>
+      <pubDate>Mon, 16 Mar 2020 23:13:36 -0400</pubDate>
+      
+      <guid>https://www.jeffbenson.io/posts/isolation/</guid>
+      <description>One of the common practices that&amp;rsquo;s been going around the news is that of self-isolation.</description>
+    </item>
+    
+  </channel>
+</rss>
