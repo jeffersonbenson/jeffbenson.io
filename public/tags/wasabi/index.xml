@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wasabi on Jeff Benson&#39;s Blog</title>
+    <link>https://www.jeffbenson.io/tags/wasabi/</link>
+    <description>Recent content in wasabi on Jeff Benson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Mar 2020 22:31:14 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.jeffbenson.io/tags/wasabi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 19: Wasabi Peas</title>
+      <link>https://www.jeffbenson.io/posts/wasabi-peas/</link>
+      <pubDate>Tue, 17 Mar 2020 22:31:14 -0400</pubDate>
+      
+      <guid>https://www.jeffbenson.io/posts/wasabi-peas/</guid>
+      <description>Yesterday I had to swing by the grocery store, since I was out of almond milk.</description>
+    </item>
+    
+  </channel>
+</rss>

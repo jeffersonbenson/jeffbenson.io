@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trail on Jeff Benson&#39;s Blog</title>
+    <link>https://www.jeffbenson.io/tags/trail/</link>
+    <description>Recent content in Trail on Jeff Benson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Mar 2020 22:39:54 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.jeffbenson.io/tags/trail/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 21: The Trail</title>
+      <link>https://www.jeffbenson.io/posts/the-trail/</link>
+      <pubDate>Thu, 19 Mar 2020 22:39:54 -0400</pubDate>
+      
+      <guid>https://www.jeffbenson.io/posts/the-trail/</guid>
+      <description>So today I guess it technically the halfway point of this whole journey, and coincidentally enough today is also the first day of spring.</description>
+    </item>
+    
+  </channel>
+</rss>

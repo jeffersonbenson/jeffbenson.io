@@ -1,5 +1,5 @@
 ---
-title: "Day 17: Isolation"
+title: "Day 18: Isolation"
 date: 2020-03-16T23:13:36-04:00
 slug: isolation
 series: Lent 2020

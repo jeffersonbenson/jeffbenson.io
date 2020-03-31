@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saturday on Jeff Benson&#39;s Blog</title>
+    <link>https://www.jeffbenson.io/tags/saturday/</link>
+    <description>Recent content in Saturday on Jeff Benson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Mar 2020 23:34:57 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.jeffbenson.io/tags/saturday/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 30: Happy Saturday</title>
+      <link>https://www.jeffbenson.io/posts/happy-saturday/</link>
+      <pubDate>Sat, 28 Mar 2020 23:34:57 -0400</pubDate>
+      
+      <guid>https://www.jeffbenson.io/posts/happy-saturday/</guid>
+      <description>Today has been a Saturday much like most Saturdays, which is to say not much occurred today.</description>
+    </item>
+    
+  </channel>
+</rss>

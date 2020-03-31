@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mr. Rogers on Jeff Benson&#39;s Blog</title>
+    <link>https://www.jeffbenson.io/tags/mr.-rogers/</link>
+    <description>Recent content in Mr. Rogers on Jeff Benson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Mar 2020 23:10:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.jeffbenson.io/tags/mr.-rogers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 20: Mr. Rogers</title>
+      <link>https://www.jeffbenson.io/posts/mr-rogers/</link>
+      <pubDate>Wed, 18 Mar 2020 23:10:05 -0400</pubDate>
+      
+      <guid>https://www.jeffbenson.io/posts/mr-rogers/</guid>
+      <description>He was despised and rejected by men, a man of sorrows and acquainted with grief; Isaiah 53:3a (English Standard Version)</description>
+    </item>
+    
+  </channel>
+</rss>

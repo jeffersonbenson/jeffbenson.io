@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timing on Jeff Benson&#39;s Blog</title>
+    <link>https://www.jeffbenson.io/tags/timing/</link>
+    <description>Recent content in Timing on Jeff Benson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Mar 2020 00:14:47 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.jeffbenson.io/tags/timing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 25: Great Timing</title>
+      <link>https://www.jeffbenson.io/posts/great-timing/</link>
+      <pubDate>Tue, 24 Mar 2020 00:14:47 -0400</pubDate>
+      
+      <guid>https://www.jeffbenson.io/posts/great-timing/</guid>
+      <description>Earlier today while on a group call, one of my friends remarked how amazing it was that we would all live in such a time as this to be able to have group voice calls (with video even), and how radically that has changed the way that people are coping with the current pandemic.</description>
+    </item>
+    
+  </channel>
+</rss>

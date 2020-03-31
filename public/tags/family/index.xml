@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Family on Jeff Benson&#39;s Blog</title>
+    <link>https://www.jeffbenson.io/tags/family/</link>
+    <description>Recent content in Family on Jeff Benson&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Mar 2020 22:43:31 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.jeffbenson.io/tags/family/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 22: Family</title>
+      <link>https://www.jeffbenson.io/posts/family/</link>
+      <pubDate>Fri, 20 Mar 2020 22:43:31 -0400</pubDate>
+      
+      <guid>https://www.jeffbenson.io/posts/family/</guid>
+      <description>Today a dear friend of mine and his fiancé announced they would be pushing their wedding up considerably due to concerns about a total lockdown.</description>
+    </item>
+    
+  </channel>
+</rss>
